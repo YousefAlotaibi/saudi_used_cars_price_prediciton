@@ -1,0 +1,3181 @@
+car_name,model_year,km,transmission,fuel,color,no_doors,engine_capacity,drive_type,no_cylinders,Accident_history,price
+Used Ford Expedition 2014,2014,"147,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",8,N/A,"58,800"
+Used Toyota Camry 2017,2017,"150,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"52,000"
+Used Chevrolet Tahoe 2017,2017,"157,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"135,000"
+Used Ford Mustang 2016,2016,"117,000KM",Automatic,N/A,Yellow,N/A,N/A,"
+            Drive
+          ",6,N/A,"90,000"
+Used Toyota Land Cruiser 2015,2015,"372,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",8,N/A,"122,000"
+Used Lexus LX 570 2011,2011,"432,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"110,000"
+Used Hyundai Accent 2019,2019,"88,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"42,800"
+Used Nissan Sunny 2016,2016,"237,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"28,000"
+Used Nissan Patrol 2017,2017,"132,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"135,000"
+Used Toyota Land Cruiser Prado 2.7L TXL1 2018,2018,"40,000KM",Automatic,Petrol,White,5,2700,"
+            All Wheel Drive
+          ",4,Perfect inside out,"128,000"
+Used Volkswagen Touareg  3.6L V6 SE 2014,2014,"111,900KM",Automatic,Petrol,White,5,3600,"
+            All Wheel Drive
+          ",6,Perfect inside out,"50,000"
+Used Mercedes-Benz S-Class  S550 2011,2011,"123,000KM",N/A,Petrol,White,4,550,"
+            Drive
+          ",8,Perfect inside out,"150,000"
+Used Mercedes-Benz G 63 AMG 2019,2019,"38,000KM",Automatic,Petrol,White,5,N/A,"
+            All Wheel Drive
+          ",8,Perfect inside out,"825,000"
+Used Hyundai Elantra 2.0L Base 2016,2016,"18,000KM",Automatic,Petrol,Silver,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"33,000"
+Used Kia Rio 2014,2014,"152,000KM",Automatic,Petrol,Beige,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"14,000"
+Used Jeep Grand Cherokee 2021,2021,"8,600KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"186,000"
+Used GMC Acadia 2012,2012,"164,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"23,000"
+Used Dodge Charger 2020,2020,"124,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"131,000"
+Used Dodge Durango 2014,2014,"267,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"63,000"
+Used Ford Expedition 2013,2013,"274,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",8,N/A,"46,000"
+Used Land Rover LR2 2012,2012,"164,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"41,000"
+Used Hyundai Sonata 2016,2016,"310,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"35,000"
+Used Kia Cerato 2017,2017,"189,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",4,N/A,"28,500"
+Used Jeep Wrangler 2017,2017,"80,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"106,500"
+Used Audi Q7 2010,2010,"275,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",8,N/A,"40,000"
+Used BMW 7 Series 2017,2017,"46,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"185,000"
+Used Toyota Camry 2017,2017,"189,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"75,000"
+Used Chevrolet Tahoe 2017,2017,"224,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"100,000"
+Used Lexus RX 350 2019,2019,"69,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"186,000"
+Used Audi TT 2016,2016,"148,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"115,000"
+Used Hyundai Sonata 2013,2013,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Toyota Land Cruiser 2002,2002,"22,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"48,000"
+Used Toyota Hiace 2004,2004,"220,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,000"
+Used Hyundai Sonata 2013,2013,"400,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Lexus LX 570 2015,2015,"500,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"87,000"
+Used Toyota Fortuner 2020,2020,"52,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"86,000"
+Used Hyundai Accent 2015,2015,"180,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"26,000"
+Used Hummer H3 2006,2006,"123,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Toyota Land Cruiser Prado 2010,2010,"350,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"59,000"
+Used Hyundai Sonata 2014,2014,"220,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Toyota Fortuner 2015,2015,"165,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Hyundai Accent 2015,2015,"180,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"26,000"
+Used Toyota Fortuner 2015,2015,"165,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Hyundai Sonata 2013,2013,"144,000KM",N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Hyundai Accent 2015,2015,"180,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Hyundai Sonata 2015,2015,"350,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"33,000"
+Used Hyundai Sonata 2012,2012,"340,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+Used Hyundai Sonata 2013,2013,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Hyundai Santa Fe 2009,2009,"220,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Toyota Corolla 2013,2013,"157,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Toyota Fortuner 2015,2015,"165,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Toyota Fortuner  2.7L (4X4) 2008,2008,"560,000KM",Automatic,Petrol,White,5,2700,"
+            All Wheel Drive
+          ",4,Perfect inside out,"30,000"
+Used Nissan GT-R 2014,2014,157KM,Manual,Petrol,White,2,N/A,"
+            All Wheel Drive
+          ",4,Perfect inside out,"30,000"
+Used Kia Sportage  2.0L Base 2014,2014,147KM,Automatic,Petrol,Orange,4,2000,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"38,000"
+Used Hyundai Elantra  1.8L Base 2015,2015,"140,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"15,000"
+Used Cadillac XT5 2017,2017,"122,000KM",Automatic,Petrol,White,4,N/A,"
+            All Wheel Drive
+          ",6,Minor wear and tear,"105,000"
+Used Toyota Camry  2.5L S 2016,2016,"96,000KM",Automatic,Petrol,Beige,4,2500,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"32,000"
+Used Toyota Corolla 1.6 SE 2016,2016,"46,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"23,000"
+Used Mercedes-Benz A250 2017,2017,"73,500KM",Automatic,Petrol,Gray,5,2000,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"86,000"
+Used Mercedes-Benz S-Class 2017,2017,"95,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"270,000"
+Used Lexus GX 460 2015,2015,"196,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",8,N/A,"125,000"
+Used Nissan Patrol 2016,2016,"375,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"105,000"
+Used Ford Crown Victoria 2011,2011,"256,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"22,000"
+Used Chevrolet Tahoe 2017,2017,"135,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"147,500"
+Used Nissan Maxima 2018,2018,"113,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"80,000"
+Used Chevrolet Suburban 2015,2015,"222,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"74,000"
+Used Mazda CX-9 2015,2015,"362,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"47,000"
+Used Hyundai Sonata 2017,2017,"176,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"44,000"
+Used Nissan 370Z 2014,2014,"164,000KM",Manual,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"80,000"
+Used Jeep Wrangler 2019,2019,"65,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"152,500"
+Used Hyundai Accent 2019,2019,"102,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",4,N/A,"38,000"
+Used GMC Yukon 2011,2011,"268,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",8,N/A,"40,000"
+Used Chrysler Grand Voyager 2012,2012,"304,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"42,000"
+Used Geely Emgrand X7 2018,2018,"72,000KM",Automatic,Petrol,Black,4,2400,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"45,000"
+Used Hyundai Azera 2017,2017,"100,000KM",Automatic,Petrol,Brown,4,1,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"20,000"
+Used Hyundai Accent  1.4L GL 2015,2015,"150,000KM",Automatic,Petrol,White,4,1400,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"15,000"
+Used Mitsubishi Pajero 2014,2014,"127,600KM",Automatic,Petrol,Brown,5,3500,"
+            All Wheel Drive
+          ",6,Perfect inside out,"45,000"
+Used Hyundai Elantra  1.6L 2016,2016,"1,986KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"20,000"
+Used Kia Sorento  3.5L Base 2015,2015,"96,000KM",Automatic,Petrol,White,4,3500,"
+            All Wheel Drive
+          ",6,Minor wear and tear,"50,000"
+Used Hyundai Sonata  2.5L GDI 8AT Mid option 2012,2012,"240,000KM",Automatic,Petrol,Red,4,2500,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"12,000"
+Used Toyota Prius 2016,2016,"331,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"38,000"
+Used Mercedes-Benz GLE-Class 2016,2016,"102,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"125,000"
+Used Lexus ES 350 2021,2021,"36,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"210,000"
+Used Kia Sportage 2015,2015,"182,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"45,000"
+Used Mercedes-Benz E-Class Saloon 2018,2018,"35,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"353,500"
+Used BMW 5 Series 2020,2020,"58,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"140,000"
+Used Volkswagen Touareg 2012,2012,"85,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"50,000"
+Used Kia Mohave 2015,2015,"198,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"38,500"
+Used Audi A4 2015,2015,"71,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"60,000"
+Used Toyota Camry 2018,2018,"201,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"60,000"
+Used BMW X6 2010,2010,"251,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"45,000"
+Used Toyota Fortuner 2015,2015,"276,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"65,000"
+Used Lexus ES 350 2016,2016,"262,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"85,000"
+Used BMW 7 Series 2018,2018,"49,500KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"198,000"
+Used Toyota Corolla 2020,2020,"126,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",3,N/A,"64,000"
+Used Ford F-150 2015,2015,"172,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",8,N/A,"70,000"
+Used Hyundai Tucson 2017,2017,"87,000KM",Automatic,N/A,Orange,N/A,N/A,"
+            Drive
+          ",4,N/A,"64,000"
+Used Toyota Fortuner 2018,2018,"158,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"92,000"
+Used RAM 1500 2015,2015,"258,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"88,000"
+Used Audi A6 2016,2016,"236,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"55,000"
+Used Kia Optima 2016,2016,"190,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"38,000"
+Used Mazda 2 Hatchback 2016,2016,"72,000KM",Automatic,Petrol,Gray,4,1,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"35,000"
+Used Hyundai Elantra 1.6L 2016,2016,130KM,Automatic,Diesel,Brown,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"20,000"
+Used Toyota Fortuner 2010,2010,"230,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"33,000"
+Used Toyota Camry 2016,2016,"170,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Toyota Camry 2012,2012,"125,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Kia Sorento  3.5L Top 2016,2016,"104,000KM",Automatic,Petrol,White,4,3500,"
+            All Wheel Drive
+          ",6,Perfect inside out,"52,000"
+Used Hyundai Elantra  1.8L Top 2015,2015,"150,000KM",Automatic,Petrol,White,4,1800,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"17,000"
+Used Hyundai Elantra  1.6L GL 2020,2020,"52,000KM",Automatic,Petrol,Black,4,1591,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"38,000"
+Used Hyundai Sonata  1.6T GL 2012,2012,"130,000KM",Automatic,Petrol,White,4,1591,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"15,000"
+Used Toyota Corolla  1.6L Standard 2012,2012,"77,000KM",CVT,Petrol,White,N/A,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"18,000"
+Used Hyundai Elantra  2.0L Base 2016,2016,"123,000KM",Automatic,Petrol,Red,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"16,000"
+Used BMW 7 Series 2014,2014,"249,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"70,000"
+Used Dodge Durango 2013,2013,"220,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"40,000"
+Used Toyota Fortuner 2019,2019,"148,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"88,000"
+Used Ford Expedition 2013,2013,"189,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"55,000"
+Used Nissan Patrol 2021,2021,"4,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"260,000"
+Used Ford Expedition 2015,2015,"193,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"70,000"
+Used Land Rover Range Rover Evoque 2016,2016,"227,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"100,000"
+Used Ford Expedition 2013,2013,"164,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"43,000"
+Used Volkswagen CC 2011,2011,"211,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"22,000"
+Used GMC Acadia 2012,2012,"603,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"33,000"
+Used Volkswagen Golf 2016,2016,"106,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"100,000"
+Used Lexus LX 570 2013,2013,"108,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"200,000"
+Used Honda Accord 2019,2019,"130,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"85,000"
+Used Lexus ES 350 2012,2012,"180,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"45,000"
+Used Nissan Patrol Safari 2014,2014,"57,000KM",Manual,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"68,000"
+Used Geely Emgrand X7 2016,2016,"253,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"28,000"
+Used Toyota Yaris 2017,2017,"230,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",4,N/A,"32,000"
+Used Dodge Durango 2013,2013,"236,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"33,000"
+Used Ford Ranger 2015,2015,"288,000KM",Manual,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"31,000"
+Used Toyota FJ Cruiser 2012,2012,"283,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"57,000"
+Used Chevrolet Tahoe 2017,2017,"86,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"120,000"
+Used Ford Mustang 2016,2016,"152,000KM",Automatic,N/A,Yellow,N/A,N/A,"
+            Drive
+          ",4,N/A,"72,000"
+Used Dodge Challenger 2018,2018,"46,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"85,000"
+Used BMW X5 2012,2012,"286,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"51,000"
+Used Hyundai Grand Santa Fe 2016,2016,"102,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"81,000"
+Used Changan Alsvin 2022,2022,"1,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"51,000"
+Used Honda Odyssey 2011,2011,"243,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",6,N/A,"28,000"
+Used Land Rover Range Rover 2019,2019,"70,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",6,N/A,"420,000"
+Used Lexus LS 460 2012,2012,"246,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"66,000"
+Used Toyota Land Cruiser 2015,2015,"260,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"140,000"
+Used Ford F-150 2013,2013,"200,000KM",Automatic,Petrol,Black,4,500,"
+            All Wheel Drive
+          ",8,Perfect inside out,"65,000"
+Used Mazda 3 2016,2016,"200,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"36,000"
+Used Toyota Fortuner 2015,2015,"165,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Hyundai Accent 2015,2015,"180,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Hyundai Tucson 2011,2011,"188,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"17,000"
+Used Toyota Corolla 2015,2015,"68,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Kia Sportage 2017,2017,"82,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Toyota Yaris 2016,2016,"40,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"20,000"
+Used Kia Sportage 2016,2016,"78,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"38,000"
+Used Hyundai Accent 2016,2016,"178,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Toyota Rav4 2016,2016,"120,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"38,000"
+Used Hyundai Elantra 2015,2015,"200,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"20,000"
+Used Hyundai Elantra 2015,2015,"362,548KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Hyundai Elantra 2017,2017,"28,100KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Kia Sportage 2018,2018,"69,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Kia Sportage 2018,2018,"69,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Toyota Yaris 2017,2017,"99,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,000"
+Used Hyundai Accent 2013,2013,"300,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"14,000"
+Used Hyundai Accent 2017,2017,"136,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"20,000"
+Used Toyota Camry 2013,2013,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"13,000"
+Used Toyota Innova 2018,2018,"189,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Toyota Yaris 2016,2016,"167,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,000"
+Used Toyota Corolla 2015,2015,"167,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",Not Sure,Perfect inside out,"16,000"
+Used Hyundai Accent 2015,2015,"178,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"20,000"
+Used Hyundai Elantra 2018,2018,"117,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Toyota Corolla 2018,2018,"127,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Toyota Yaris 2014,2014,"268,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"20,000"
+Used Toyota Land Cruiser Prado 2016,2016,"360,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"85,000"
+Used Hyundai Sonata 2013,2013,"370,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Hyundai Elantra 2016,2016,"300,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Toyota Land Cruiser Prado 2014,2014,"250,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"85,000"
+Used Toyota Fortuner 2015,2015,"165,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Kia Carens 2019,2019,"18,046KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Hyundai Sonata 2018,2018,"148,000KM",N/A,N/A,Beige,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"57,000"
+Used GMC Acadia 2010,2010,"270,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"15,000"
+Used Mercedes-Benz CLC 180 2012,2012,"210,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Kia Carnival 2016,2016,"140,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"45,000"
+Used Toyota Fortuner 2016,2016,"91,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"75,000"
+Used Jeep Cherokee 2014,2014,"220,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"65,000"
+Used Hyundai Sonata 2007,2007,"250,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"9,000"
+Used Mercedes-Benz C-Class 2009,2009,"110,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"300,000"
+Used Toyota FJ Cruiser 2010,2010,"250,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"48,000"
+Used Hyundai Tucson 2018,2018,"189,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Hyundai Elantra 2018,2018,"130,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Hyundai Sonata 2012,2012,"45,870KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Hyundai Santa Fe 2015,2015,"86,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Toyota Innova 2013,2013,"188,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"17,000"
+Used Mazda 2 2011,2011,"217,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Hyundai Santa Fe 2018,2018,"78,523KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Toyota Yaris 2011,2011,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"10,000"
+Used Chevrolet Traverse 2010,2010,"176,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,500"
+Used Hyundai Elantra 2016,2016,130KM,Automatic,Diesel,White,4,N/A,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"20,000"
+Used Toyota Corolla  1.6L SE 2017,2017,"112,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"30,000"
+Used BMW X5 2014,2014,"191,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"94,000"
+Used BMW 7 Series 2010,2010,"219,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",6,N/A,"31,000"
+Used Chevrolet Tahoe 2013,2013,"321,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"29,800"
+Used Hyundai Sonata 2018,2018,"132,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"52,000"
+Used Volvo XC60 2011,2011,"117,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"26,000"
+Used Kia Mohave 2019,2019,"26,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"105,000"
+Used Toyota FJ Cruiser 2016,2016,"78,500KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"85,000"
+Used Toyota Land Cruiser 2014,2014,"190,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"120,000"
+New Toyota Innova 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"115,000"
+New Toyota Camry 2022,2022,0KM,N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"140,000"
+New Toyota Land Cruiser Prado 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"215,000"
+New Toyota FJ Cruiser 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"158,000"
+New Toyota Rav4 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"138,000"
+New Toyota Land Cruiser Prado 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"228,000"
+New Toyota Land Cruiser Prado 2022,2022,0KM,N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"228,000"
+Used Dodge Charger 2014,2014,"154,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+New Peugeot Expert 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"89,000"
+New Toyota FJ Cruiser 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"158,000"
+Used Toyota Corolla 2016,2016,"138,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Hyundai Elantra 2016,2016,"130,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Hyundai Elantra 2014,2014,"100,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Toyota Yaris 2015,2015,"250,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Hyundai Elantra 2010,2010,"360,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,500"
+Used Toyota Rav4 2012,2012,"218,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"275,000"
+Used Hyundai Tucson 2011,2011,"280,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Hyundai Sonata 2019,2019,"87,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"75,000"
+Used Toyota Land Cruiser Prado 2014,2014,"300,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"85,000"
+Used Toyota Land Cruiser Prado 2016,2016,"360,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"85,000"
+Used Hyundai Sonata 2013,2013,"370,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Hyundai Elantra 2016,2016,"300,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Toyota Land Cruiser Prado 2014,2014,"85,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"200,000"
+Used GMC Yukon XL  GMC Yukon XL 1500 5.3L AWD 2011,2011,"370,000KM",Automatic,Petrol,Black,5,5300,"
+            Rear Wheel Drive
+          ",8,Perfect inside out,"43,000"
+Used Hyundai Elantra 1.6L 2016,2016,130KM,Automatic,Diesel,Brown,4,N/A,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"20,000"
+Used Ford Explorer  3.5L V6 Base 2015,2015,"180,000KM",Automatic,Petrol,Silver,4,3500,"
+            All Wheel Drive
+          ",6,Perfect inside out,"65,000"
+Used Nissan Pathfinder 2019,2019,"175,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"80,000"
+Used Cadillac ESCALADE 2019,2019,"44,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"300,000"
+Used Chevrolet Tahoe 2018,2018,"141,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",8,N/A,"150,000"
+Used Hyundai Sonata 2018,2018,"62,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"65,000"
+Used Kia Telluride 2021,2021,"62,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"130,000"
+Used Toyota Camry 2017,2017,"170,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"54,000"
+Used Toyota Land Cruiser 2021,2021,"16,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"320,000"
+Used Ford Expedition 2010,2010,"323,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"25,800"
+Used Land Rover Range Rover Sport 2017,2017,"76,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"320,000"
+Used Toyota Land Cruiser 2011,2011,"195,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",6,N/A,"100,000"
+Used Mercedes-Benz E-Class Saloon 2017,2017,"68,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"175,000"
+Used Dodge Durango 2014,2014,"197,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"72,000"
+Used Toyota Hilux 2016,2016,"275,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"55,000"
+Used Toyota Aurion 2015,2015,"276,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"48,000"
+Used BMW 7 Series 2010,2010,"82,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",6,N/A,"67,000"
+Used Dodge Charger  5.7L R/T 2013,2013,"230,000KM",Automatic,Petrol,Red,4,5700,"
+            Rear Wheel Drive
+          ",8,Perfect inside out,"43,000"
+Used Ford Explorer  3.5L V6 Base (FWD) 2016,2016,"50,000KM",Automatic,Petrol,Blue,4,3500,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"110,000"
+Used Geely Coolray  1.5TD GF Plus 2022,2022,525KM,Automatic,Petrol,Silver,5,1500,"
+            Front Wheel Drive
+          ",3,Minor wear and tear,"70,000"
+Used Porsche Cayenne  GTS 2013,2013,260KM,Automatic,Petrol,White,4,4800,"
+            All Wheel Drive
+          ",8,Perfect inside out,"88,000"
+Used Hyundai Elantra 1.6L 2016,2016,120KM,Automatic,Diesel,Teal,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"20,000"
+Used Kia Optima  4 Door 2.0L LX 2014,2014,"248,000KM",Automatic,Petrol,White,4,2000,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"25,000"
+Used Nissan Altima 2.5 S 2017,2017,"162,000KM",CVT,Petrol,White,4,2500,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"39,999"
+New Toyota Hilux 2022,2022,0KM,N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"158,000"
+Used Cadillac Brougham 1988,1988,"250,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"40,000"
+Used Porsche Panamera 2011,2011,"200,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"59,000"
+Used Toyota Corolla 2013,2013,"270,000KM",Manual,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"21,000"
+Used Mercedes-Benz 560 SEL 1990,1990,"131,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"22,000"
+Used Changan CS95 2022,2022,"2,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"118,000"
+Used Kia Optima 2014,2014,"361,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"25,000"
+Used Mercedes-Benz G-Class 2013,2013,"300,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"180,000"
+Used Audi A8 2014,2014,"225,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"95,000"
+Used Ford Fusion 2014,2014,"263,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"33,000"
+Used Toyota FJ Cruiser 2016,2016,"185,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"96,000"
+Used GMC Yukon 2013,2013,"269,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",8,N/A,"66,000"
+Used Lexus LS 460 2015,2015,"164,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",8,N/A,"136,000"
+Used Nissan Patrol 2013,2013,"286,000KM",Manual,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"58,000"
+Used Audi A6 2018,2018,"140,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"95,000"
+Used Toyota Camry 2014,2014,"290,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"28,000"
+Used Chevrolet Impala 2015,2015,"301,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"33,000"
+Used Ford Expedition 2014,2014,"281,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"40,000"
+Used Nissan Sentra 2017,2017,"100,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"40,000"
+Used Toyota Yaris 2020,2020,"8,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"55,000"
+Used Hyundai Santa Fe 2017,2017,"121,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"78,000"
+Used Hyundai Santa Fe 2018,2018,"126,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"78,000"
+Used Lexus LX 570 2010,2010,"385,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"90,000"
+Used Honda Odyssey 2015,2015,"253,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"46,000"
+Used Hyundai Sonata 2016,2016,"340,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"41,000"
+Used Toyota Land Cruiser 2006,2006,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"42,000"
+Used Hyundai Sonata 2020,2020,"49,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"66,000"
+Used Hyundai Elantra 2015,2015,"271,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"31,000"
+Used Hyundai Elantra 2014,2014,"200,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"26,000"
+Used Toyota Yaris 2015,2015,"250,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+New Changan CS95 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"131,001"
+New Chery Arrizo 3 2021,2021,0KM,N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"62,675"
+New Chery Arrizo 3 2021,2021,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"62,675"
+New BAIC BJ40 Plus 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"126,000"
+New BAIC X35 2022,2022,0KM,N/A,N/A,Orange,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"52,990"
+New Maxus D90 2022,2022,0KM,N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"132,000"
+New Maxus T60 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"71,001"
+New Chery Tiggo 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"51,635"
+New BAIC BJ40 Plus 2022,2022,0KM,N/A,N/A,Beige,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"132,250"
+New Maxus T60 2022,2022,0KM,N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"94,875"
+New Hyundai Matrix 2022,2022,0KM,N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"116,150"
+New Hyundai Sonata 2022,2022,0KM,N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"116,150"
+New Chery Tiggo 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"51,750"
+New Hyundai Azera 2022,2022,0KM,N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"135,700"
+New Changan CS85 2022,2022,0KM,N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"103,500"
+New Changan Hunter 2022,2022,0KM,N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"88,550"
+New Changan CS85 2022,2022,0KM,N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"117,001"
+New BAIC X35 2022,2022,0KM,N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"63,250"
+New Maxus T60 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"95,450"
+New Hyundai Santa Fe 2022,2022,0KM,N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"144,900"
+Used Dodge Challenger  SRT8 2014,2014,170KM,Automatic,Petrol,Black,4,N/A,"
+            Rear Wheel Drive
+          ",8,Minor wear and tear,"58,000"
+Used Ford Fusion  S 2014,2014,"163,150KM",Automatic,Petrol,Black,4,2500,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"36,500"
+Used Mazda 6 2016,2016,"251,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"33,000"
+Used Mercedes-Benz GLE-Class 2016,2016,"241,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"150,000"
+Used Hyundai Sonata 2017,2017,"301,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"43,000"
+Used Ford Mustang 2019,2019,"65,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"124,000"
+Used Dodge Charger 2013,2013,"178,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",8,N/A,"40,000"
+Used Cadillac CT4 2020,2020,"33,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"140,000"
+Used Nissan Pathfinder 2018,2018,"79,000KM",Automatic,N/A,Green,N/A,N/A,"
+            Drive
+          ",6,N/A,"75,000"
+Used Toyota Camry 2017,2017,"138,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"65,000"
+Used Honda Accord 2014,2014,"324,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"35,000"
+Used Lexus LX 570 2016,2016,"119,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",8,N/A,"260,000"
+Used BMW X3 2014,2014,"149,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"64,000"
+Used GMC Yukon 2021,2021,"45,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",8,N/A,"190,000"
+Used Infiniti QX50 2015,2015,"57,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"80,000"
+Used GMC Yukon 2015,2015,"258,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",8,N/A,"92,000"
+Used Kia Sportage 2016,2016,"251,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"36,000"
+Used Toyota Corolla 2015,2015,"298,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"40,000"
+Used Toyota Corolla  1.6L XLI 2013,2013,"240,000KM",Automatic,Petrol,White,4,1598,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"32,000"
+Used Toyota Land Cruiser Prado 2006,2006,"436,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Toyota Land Cruiser 2008,2008,"500,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Kia Sportage 2015,2015,"44,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"36,000"
+Used Hyundai Sonata 2013,2013,"230,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+Used Toyota Camry 2013,2013,"260,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"33,000"
+Used Hyundai Santa Fe 2018,2018,"110,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"62,000"
+Used Toyota Land Cruiser Prado 2005,2005,"290,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Mitsubishi Pajero 2005,2005,"360,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"15,000"
+Used Hyundai Elantra 2017,2017,"150,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,000"
+Used Hyundai Elantra 2012,2012,"300,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Toyota Corolla 2016,2016,"146,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Kia Sportage 2013,2013,"380,000KM",N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"15,000"
+Used Toyota Land Cruiser Prado 2005,2005,"35,000KM",N/A,N/A,Beige,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Kia Sportage 2017,2017,"180,000KM",N/A,N/A,Orange,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"56,000"
+Used Hyundai Sonata 2014,2014,"320,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Hyundai Sonata 2014,2014,"320,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Toyota Land Cruiser 2003,2003,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Toyota Fortuner 2006,2006,"400,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"33,000"
+Used Toyota Land Cruiser 2007,2007,"370,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"44,000"
+Used Toyota Corolla 2016,2016,"190,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Toyota Corolla 2015,2015,"25,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Toyota Corolla 2012,2012,"350,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Toyota Yaris 2019,2019,"113,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Toyota Yaris 2011,2011,"22,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Kia Cerato 2017,2017,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Mitsubishi 4th Generation Pajero 2016,2016,"205,000KM",Automatic,Petrol,White,5,3,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"55,000"
+Used Toyota Corolla 1.6L XLI 2013,2013,"150,000KM",Automatic,Petrol,Blue,4,N/A,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"28,000"
+Used Toyota Fortuner 2016,2016,"79,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"85,000"
+Used Lexus LS-Series 2018,2018,"68,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",6,N/A,"285,000"
+Used Land Rover Range Rover Evoque 2020,2020,"63,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"225,000"
+Used Ford Expedition 2015,2015,"353,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"56,000"
+Used Land Rover Range Rover 2015,2015,"197,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"170,000"
+Used Isuzu D-MAX 2018,2018,"128,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"95,000"
+Used Toyota Land Cruiser Pick Up 2015,2015,"73,000KM",Manual,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"110,650"
+Used Chevrolet Tahoe 2014,2014,"294,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"65,000"
+Used Dodge Charger 2017,2017,"231,000KM",Automatic,N/A,Other,N/A,N/A,"
+            Drive
+          ",6,N/A,"65,000"
+Used GMC Yukon 2011,2011,"296,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",8,N/A,"36,000"
+Used Chevrolet Silverado 2016,2016,"236,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"70,000"
+Used Chrysler 300C 2012,2012,"229,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"35,000"
+Used Genesis G80 2015,2015,"216,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"55,000"
+Used Lexus ES 350 2015,2015,"116,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"88,000"
+Used Hyundai Santa Fe  3.5L Limited (AWD) 2019,2019,"92,000KM",Automatic,Petrol,Silver,5,3500,"
+            All Wheel Drive
+          ",6,Perfect inside out,"120,000"
+Used Maserati Quattroporte  3.0T V6 2020,2020,"6,200KM",Automatic,Petrol,Black,4,2979,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"350,000"
+Used BMW X5 xDrive 35i 2011,2011,"133,000KM",CVT,Petrol,Brown,4,3500,"
+            All Wheel Drive
+          ",6,Minor wear and tear,"40,000"
+Used Kia K8 3.5L GDI LX 2022,2022,"16,700KM",Automatic,Petrol,Blue,4,3470,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"150,000"
+Used Toyota Corolla 2015,2015,"110,000KM",Automatic,Petrol,Silver,4,N/A,"
+            Drive
+          ",Not Sure,Perfect inside out,"40,000"
+Used Hyundai Grand Santa Fe  3.3L FWD 2014,2014,"182,000KM",Automatic,Petrol,Black,4,3500,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"56,000"
+Used Lexus ES 350 2016,2016,"163,000KM",Automatic,Petrol,Brown,4,3,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"145,000"
+Used Nissan X-Trail  2.5 S 2WD 2016,2016,"163,560KM",Automatic,Petrol,Gray,4,2500,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"48,500"
+Used Ford F-150 2010,2010,"115,000KM",Automatic,N/A,Orange,N/A,N/A,"
+            Drive
+          ",8,N/A,"80,000"
+Used Nissan Pathfinder 2010,2010,"208,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"24,000"
+Used Mercedes-Benz S-Class 2014,2014,"83,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"200,000"
+Used Chevrolet Impala 2015,2015,"286,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"51,000"
+Used BMW 7 Series 2012,2012,"232,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"50,000"
+Used Kia Optima 2016,2016,"193,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"56,000"
+Used Land Rover Range Rover 2015,2015,"118,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"202,000"
+Used Kia Sportage 2021,2021,"36,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"95,000"
+Used Hyundai Accent 2020,2020,"61,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"54,000"
+Used Hyundai Sonata 2017,2017,"196,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"52,800"
+Used Nissan Patrol Safari 2016,2016,"260,000KM",Automatic,N/A,Green,N/A,N/A,"
+            Drive
+          ",6,N/A,"60,000"
+Used GMC Yukon 2013,2013,"271,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"50,000"
+Used Renault Fluence 2014,2014,"151,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"25,000"
+Used GMC Yukon 2019,2019,"72,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"157,000"
+Used Lexus LS 460 2013,2013,"293,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"115,000"
+Used Toyota FJ Cruiser 2012,2012,"389,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"55,000"
+Used Toyota Camry 2017,2017,"287,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"55,000"
+Used Toyota Hilux 2014,2014,"232,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"57,000"
+Used BMW 7 Series 2017,2017,"73,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"210,000"
+Used Mercedes-Benz C-Class 2020,2020,"29,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"230,000"
+Used Ford Taurus 2022,2022,"25,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"126,000"
+Used Mini Countryman 2015,2015,"179,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"42,000"
+Used Toyota Innova 2010,2010,"410,000KM",Manual,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"23,000"
+Used BMW 7 Series 2020,2020,"65,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"300,000"
+Used Hyundai Accent 2015,2015,"242,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"19,000"
+Used Haval H6 2020,2020,"82,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"60,000"
+Used Hyundai Sonata  2.5L GDI 8AT Full option 2011,2011,180KM,Automatic,Petrol,White,4,2500,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"18,000"
+Used Hyundai Azera 2016,2016,"120,000KM",Automatic,Diesel,Beige,4,1,"
+            Drive
+          ",4,Perfect inside out,"20,000"
+Used Hyundai Sonata 2014,2014,"300,000KM",Automatic,Petrol,White,5,2000,"
+            All Wheel Drive
+          ",Not Sure,Perfect inside out,"33,000"
+Used Toyota Corolla 2012,2012,"97,000KM",Automatic,Petrol,Other,4,1600,"
+            Front Wheel Drive
+          ",4,Normal wear and tear with a few issues,"13,000"
+Used Kia Sportage  1.6L Top (FWD) 2018,2018,"90,000KM",Automatic,Petrol,White,5,1591,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"27,000"
+Used Kia Sportage  1.6L Top (FWD) 2018,2018,"90,000KM",Automatic,Petrol,White,5,1591,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"27,000"
+Used Ford Explorer 2008,2008,"300,000KM",Automatic,Petrol,Gray,2,N/A,"
+            Drive
+          ",6,Perfect inside out,"13,000"
+Used Toyota Hiace  Cargo Van 1993,1993,"170,000KM",Manual,Petrol,White,5,2694,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"12,000"
+Used Mercedes-Benz CLA-Class 2014,2014,"218,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"60,000"
+Used Toyota FJ Cruiser 2014,2014,"320,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"75,000"
+Used Mercedes-Benz S-Class 2010,2010,"200,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"73,000"
+Used Mercedes-Benz S-Class 2021,2021,"22,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"650,000"
+Used Honda Odyssey 2013,2013,"223,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"25,000"
+Used GAC GS8 2019,2019,"72,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",4,N/A,"70,000"
+Used Ford Crown Victoria 2011,2011,"172,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"27,000"
+Used Hyundai Grand Santa Fe 2016,2016,"214,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"51,000"
+Used Jeep Wrangler 2014,2014,"240,000KM",Automatic,N/A,Yellow,N/A,N/A,"
+            Drive
+          ",6,N/A,"95,000"
+Used GMC Yukon 2011,2011,"378,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"36,000"
+Used Lexus LX 570 2019,2019,"58,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"375,000"
+Used Jeep Grand Cherokee 2011,2011,"255,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"36,000"
+Used Ford F-150 2020,2020,"28,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"180,000"
+Used Hyundai Sonata 2.5L GDI 8AT Full option   2011,2011,"17,000KM",Automatic,Petrol,White,4,2500,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"18,000"
+Used Toyota Corolla  1.6 Limited 2013,2013,"157,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"17,000"
+Used Toyota Avalon  3.5L V6 XLE 2019,2019,"14,638KM",Automatic,Petrol,White,4,3456,"
+            Front Wheel Drive
+          ",6,Minor wear and tear,"140,000"
+Used Toyota Venza 2003,2003,"250,000KM",Automatic,Petrol,Silver,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"8,000"
+Used Mercedes-Benz G-Class 2019,2019,"60,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"792,000"
+Used Chevrolet Tahoe 2015,2015,"350,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"80,000"
+Used Kia Optima 2017,2017,"121,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"50,000"
+Used GMC Sierra 2014,2014,"215,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",8,N/A,"65,000"
+Used Toyota Innova 2017,2017,"329,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"53,000"
+Used Audi A7 2011,2011,"264,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"63,000"
+Used Porsche Panamera 2020,2020,"14,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"545,000"
+Used Toyota Hiace  2.7L Panel Van 2000,2000,"150,000KM",Manual,Petrol,White,4,2694,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"12,000"
+New Kia Optima 2020,2020,0KM,N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"104,000"
+Used Nissan Patrol 2016,2016,"173,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"112,000"
+Used Ford Explorer 2015,2015,"208,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"50,000"
+Used Bentley Continental 2014,2014,"27,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"350,000"
+Used Toyota Land Cruiser 2019,2019,"93,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"229,000"
+Used Toyota Camry 2019,2019,"45,000KM",Automatic,Petrol,Blue,4,2500,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"48,000"
+Used Mitsubishi Pajero 3.0L GLS 5 Door High 2008,2008,"228,000KM",CVT,Petrol,White,4,3,"
+            All Wheel Drive
+          ",6,Normal wear and tear with a few issues,"33,000"
+Used Chevrolet Suburban  LT 5.3L 2014,2014,"165,000KM",Automatic,Petrol,Black,5,5300,"
+            Rear Wheel Drive
+          ",8,Perfect inside out,"69,000"
+Used Hyundai Accent  1.4L GL 2017,2017,"83,500KM",Automatic,Petrol,White,4,1400,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"17,000"
+Used Audi Q5 2016,2016,"53,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"106,000"
+Used Ford Taurus 2011,2011,"324,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"28,500"
+Used Hyundai Elantra 2016,2016,"186,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"35,800"
+Used Toyota Land Cruiser 2016,2016,"270,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"155,000"
+Used Land Rover Range Rover Sport 2012,2012,"184,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",8,N/A,"61,000"
+Used Mitsubishi Pajero 2017,2017,"110,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"69,000"
+Used Nissan Altima 2019,2019,"38,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"73,000"
+Used Hyundai Sonata 2016,2016,"153,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"49,000"
+Used Nissan Xterra 2012,2012,"205,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"45,000"
+Used Nissan Armada 2010,2010,"356,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"17,000"
+Used Mitsubishi Pajero 2016,2016,"307,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"48,000"
+Used Infiniti Q70 2016,2016,"54,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"68,000"
+Used BMW 7 Series 2020,2020,"40,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"300,000"
+Used Hyundai Sonata 2018,2018,"144,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"56,000"
+Used Mazda 6 2014,2014,"80,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"55,000"
+Used Ford Expedition 2011,2011,"552,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"27,000"
+Used Kia Sportage 2014,2014,"96,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"47,500"
+Used Kia Cerato 2014,2014,"237,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"23,000"
+Used Lexus ES 350 2013,2013,"201,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"83,000"
+Used Chevrolet Suburban 2013,2013,"148,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"70,000"
+Used Ford Taurus 2014,2014,"301,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"35,000"
+Used Nissan Patrol 2018,2018,"210,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"160,000"
+Used Ford Taurus 2016,2016,"223,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"45,000"
+Used Hyundai Santa Fe 2017,2017,"133,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"56,300"
+Used Ford Explorer  3.5L V6 Base 2015,2015,"117,000KM",Automatic,Petrol,Black,4,3500,"
+            All Wheel Drive
+          ",6,Perfect inside out,"70,000"
+Used Toyota Hilux 2017,2017,"183,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"51,500"
+Used Toyota Avalon 2015,2015,"282,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"73,000"
+Used Hyundai Elantra 2016,2016,"143,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",Not Sure,Perfect inside out,"46,500"
+Used Hyundai Elantra 2017,2017,"160,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"52,000"
+Used Hyundai Sonata 2016,2016,"184,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"43,000"
+Used Toyota Yaris 2021,2021,"56,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"47,000"
+Used Nissan Sunny 2016,2016,"135,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Toyota Yaris 2020,2020,"59,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"42,500"
+Used Nissan Sunny 2022,2022,"200,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"48,500"
+Used Ford F-150 2020,2020,"9,660KM",Automatic,Petrol,White,N/A,N/A,"
+            Drive
+          ",8,Perfect inside out,"160,000"
+Used Toyota Corolla  1.6L GLI Moonroof 2020,2020,"22,000KM",CVT,Petrol,White,N/A,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"67,000"
+New Dodge Ram 1500 2021,2021,0KM,N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"188,000"
+Used Toyota Land Cruiser Prado 2006,2006,"436,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Toyota Land Cruiser 2008,2008,"500,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Toyota Corolla 2014,2014,"150,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"33,000"
+Used Toyota Hilux 1999,1999,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"165,000"
+Used Toyota Camry 2009,2009,"369,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Hyundai H1 2017,2017,"85,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"43,000"
+Used Nissan Frontier 2017,2017,"450,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"14,500"
+Used Hyundai Tucson 2008,2008,"300,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"135,000"
+Used Toyota Hilux 2012,2012,"350,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"38,000"
+Used Toyota Land Cruiser 2007,2007,"250,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"39,000"
+Used Toyota Yaris 2013,2013,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Hyundai Accent 2015,2015,"200,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Hyundai Elantra 2016,2016,"149,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Kia Rio 2015,2015,"190,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+Used Toyota Camry 2017,2017,"110,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Hyundai Accent 2012,2012,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Normal wear and tear with a few issues,"8,500"
+Used Hyundai Elantra 2016,2016,"131,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Hyundai Elantra 2009,2009,"235,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Toyota Camry 2014,2014,"143,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Toyota Corolla 2010,2010,"250,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Hyundai Accent 2014,2014,"100,000KM",N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Jeep Cherokee 2016,2016,"170,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,500"
+Used Chevrolet Trailblazer 2004,2004,"240,000KM",Automatic,Petrol,Black,4,N/A,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"18,000"
+Used Hyundai Accent 2015,2015,"4,300KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Kia Pegas 2020,2020,"37,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"39,500"
+Used Toyota Camry 2007,2007,"180,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Ford Focus  2.0L ST 2013,2013,"99,000KM",Manual,Petrol,Silver,5,2000,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"45,000"
+Used Nissan Altima 2005,2005,"260,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"12,000"
+Used Jeep Grand Cherokee L 2016,2016,"170,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",Not Sure,Perfect inside out,"39,000"
+Used Dodge Durango 2013,2013,"185,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"36,000"
+Used Mercedes-Benz S-Class 2017,2017,"69,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"260,000"
+Used Dodge Charger 2014,2014,"248,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"36,000"
+Used Dodge Charger 2014,2014,"358,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"21,000"
+Used Ford Crown Victoria 2011,2011,"218,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"27,000"
+Used Toyota Land Cruiser 2022,2022,"14,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"346,000"
+Used Toyota FJ Cruiser 2016,2016,"334,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"85,000"
+Used Dodge Durango 2011,2011,"326,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"30,000"
+Used Mercedes-Benz ML350 2014,2014,"185,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"92,000"
+Used Honda Accord 2015,2015,"177,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"36,000"
+Used Toyota Land Cruiser Prado 2014,2014,"266,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"71,000"
+Used Mazda 3 2012,2012,"272,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"14,700"
+Used Toyota Rush 2022,2022,"8,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"74,000"
+Used Chevrolet Impala 2015,2015,"290,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"51,000"
+Used Lexus LX 570 2020,2020,"114,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"380,000"
+Used Kia Optima 2013,2013,"344,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"30,000"
+Used Lexus LS-Series 2018,2018,"107,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"240,000"
+Used Toyota Sequoia 2010,2010,"450,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"35,000"
+Used GMC Yukon 2010,2010,"319,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"49,000"
+Used Jeep Wrangler 2021,2021,"25,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"158,000"
+Used Jaguar XJ 2011,2011,"187,000KM",Automatic,N/A,Green,N/A,N/A,"
+            Drive
+          ",8,N/A,"60,000"
+Used Toyota Land Cruiser Pick Up 2019,2019,"3,000KM",Manual,N/A,Gold,N/A,N/A,"
+            Drive
+          ",6,N/A,"125,000"
+Used Toyota Corolla 2022,2022,"11,500KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",3,N/A,"73,000"
+Used Hyundai Elantra 2011,2011,"502,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"14,000"
+Used BMW 7 Series 2012,2012,"219,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"75,000"
+Used Ford Edge 2013,2013,"184,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"42,800"
+Used Chevrolet Tahoe 2013,2013,"280,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"47,000"
+Used Honda Accord 2012,2012,"470,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"28,000"
+Used Mercedes-Benz S-Class 2016,2016,"117,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"225,000"
+Used Hyundai Palisade 2020,2020,"151,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"140,000"
+Used BMW 4 Series Convertible  428i 2016,2016,"120,000KM",Automatic,Petrol,Black,2,2,"
+            Rear Wheel Drive
+          ",4,Minor wear and tear,"110,000"
+Used Mitsubishi Pajero 3.5L 5 Door Mid 2016,2016,"99,000KM",Automatic,Petrol,Black,5,3470,"
+            All Wheel Drive
+          ",6,Perfect inside out,"50,000"
+Used Mazda CX-9 2009,2009,"235,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,000"
+Used Toyota Land Cruiser 2007,2007,"257,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,000"
+Used Hyundai Elantra 2016,2016,"325,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Hyundai Elantra 2016,2016,"131,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Hyundai Elantra 2013,2013,"2,400KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"14,000"
+Used Toyota Camry 2017,2017,"110,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Toyota Corolla 2014,2014,"33,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"150,000"
+Used Toyota Hilux 1999,1999,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,500"
+Used Toyota Camry 2009,2009,"24,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"369,000"
+Used Toyota Land Cruiser 2007,2007,"250,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Hyundai Elantra 2014,2014,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,000"
+Used Nissan Frontier 2015,2015,"235,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"34,000"
+Used Toyota Hiace 2018,2018,"75,000KM",N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"190,000"
+Used Toyota Avanza 2017,2017,"133,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Toyota Corolla 2020,2020,"42,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"60,000"
+Used Kia Sportage 2016,2016,"165,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"59,000"
+Used Hyundai Azera 2017,2017,"145,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"60,000"
+Used BMW X5 2007,2007,"226,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"34,000"
+Used Renault Symbol 2019,2019,"128,171KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,500"
+Used Chevrolet Blazer 2009,2009,"250,000KM",Automatic,Petrol,Red,5,N/A,"
+            All Wheel Drive
+          ",6,Perfect inside out,"20,000"
+Used Toyota Corolla  1.6 Limited 2015,2015,"114,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"42,000"
+Used Honda Pilot 2012,2012,"326,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"40,000"
+Used Mitsubishi Pajero 2017,2017,"141,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"60,000"
+Used BMW X1 2011,2011,"207,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",4,N/A,"28,000"
+Used Nissan Armada 2015,2015,"96,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"64,000"
+Used Mercedes-Benz G-Class 2019,2019,"32,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"700,000"
+Used Changan CS95 2019,2019,"72,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"71,000"
+Used Isuzu D-MAX 2020,2020,"54,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"111,500"
+Used Honda Accord 2014,2014,"342,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"34,000"
+Used Chevrolet Sonic 2012,2012,"53,000KM",Manual,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"19,500"
+Used Hyundai Grand Santa Fe 2016,2016,"180,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"64,000"
+Used Chevrolet Tahoe 2016,2016,"87,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"125,000"
+Used Ford Expedition 2012,2012,"563,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"36,000"
+Used Lexus LX 570 2018,2018,"127,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"320,000"
+Used Jeep Grand Cherokee 2015,2015,"226,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"58,000"
+Used Porsche Cayenne  Turbo 2004,2004,"317,000KM",Automatic,Petrol,Gray,4,4500,"
+            All Wheel Drive
+          ",8,Perfect inside out,"28,000"
+Used Chevrolet Traverse  3.6L LS (FWD) 2012,2012,"181,000KM",Automatic,Petrol,Silver,5,3564,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"30,000"
+Used Porsche Macan GTS 2017,2017,"92,000KM",Automatic,Petrol,White,5,2997,"
+            All Wheel Drive
+          ",6,Perfect inside out,"182,000"
+Used Chevrolet Blazer 2008,2008,"365,000KM",Automatic,Petrol,Gray,N/A,3600,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"12,000"
+Used Kia Rio 2016,2016,"120,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,500"
+Used Toyota Corolla 2013,2013,"170,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+Used Hyundai Elantra 2016,2016,"400,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+Used Toyota Rav4 2008,2008,"350,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Daihatsu Terios 2008,2008,"460,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"13,500"
+Used Toyota Land Cruiser 2007,2007,"250,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Kia Sportage 2013,2013,"252,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+New Isuzu Reward 2022,2022,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"106,000"
+New GMC Yukon 2021,2021,0KM,N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"233,000"
+New Toyota Highlander  2022,2022,0KM,N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"207,000"
+New Toyota Highlander  2022,2022,0KM,N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"207,000"
+New Toyota Land Cruiser Pick Up 2022,2022,0KM,N/A,N/A,Beige,N/A,N/A,"
+            Drive
+          ",6,Perfect inside out,"155,000"
+New Hyundai Kona 2021,2021,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"90,000"
+Used Toyota Corolla  1.6 Limited 2015,2015,"100,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"20,000"
+Used GMC Yukon Denali  6.2L V8 (AWD) 2007,2007,"236,000KM",Automatic,Petrol,White,5,6200,"
+            All Wheel Drive
+          ",8,Perfect inside out,"32,000"
+Used Kia Rio Hatchback  1.4 Base 2015,2015,"331,000KM",Automatic,Petrol,Other,5,1400,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"29,000"
+Used Toyota Corolla  1.6 S 2017,2017,"100,000KM",Automatic,Petrol,White,4,1600,"
+            Drive
+          ",4,Perfect inside out,"29,000"
+Used Honda Accord  2.4L EX 2015,2015,"71,000KM",Automatic,Petrol,Other,4,2400,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"48,000"
+Used Honda Civic  1.6L DX 1992,1992,"40,000KM",Automatic,Petrol,Red,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"7,000"
+Used Hyundai Accent  1.4L Mid 2019,2019,"24,000KM",Automatic,Petrol,Other,4,1368,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"43,000"
+Used Toyota Camry 2.5L Grande Hybrid 212 HP 2021,2021,"13,000KM",Automatic,Hybrid,White,4,2487,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"60,000"
+Used Kia Sportage 2016,2016,188KM,Automatic,Diesel,White,4,2000,"
+            All Wheel Drive
+          ",4,Perfect inside out,"33,000"
+Used Honda Accord 2020,2020,"65,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"75,000"
+Used Mazda 6 2018,2018,"114,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",4,N/A,"60,000"
+Used Kia Quoris 2015,2015,"155,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"65,000"
+Used BMW 5 Series 2016,2016,"155,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"75,000"
+Used Nissan Patrol 2014,2014,"191,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"100,000"
+Used Hyundai Sonata 2018,2018,"163,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"55,000"
+Used Ford Taurus 2018,2018,"56,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"62,000"
+Used Hyundai Tucson 2017,2017,"283,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"61,000"
+Used Lexus ES 350 2013,2013,"234,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"60,000"
+Used Honda Accord 2012,2012,"391,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"31,000"
+Used Kia Optima 2018,2018,"309,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",4,N/A,"40,000"
+Used Ford Taurus 2015,2015,"281,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"36,000"
+Used BMW X6 2013,2013,"320,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"70,000"
+Used Toyota Camry 2017,2017,"204,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"46,000"
+Used Mazda CX-5 2020,2020,"38,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"75,000"
+Used BMW 7 Series 2018,2018,"129,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"160,000"
+Used Mercedes-Benz E-Class Saloon 2014,2014,"155,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"81,000"
+Used Land Rover Range Rover Sport 2014,2014,"161,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"130,000"
+Used BMW 6 Series Gran Coupe 2019,2019,"50,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"213,000"
+Used Jaguar F-Pace 2017,2017,"45,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"170,000"
+Used BMW 7 Series 2016,2016,"135,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"195,000"
+Used Mitsubishi Pajero 2016,2016,"156,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"57,000"
+Used GMC Yukon 2014,2014,"167,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"70,000"
+Used Toyota FJ Cruiser 2015,2015,"173,000KM",Automatic,N/A,Yellow,N/A,N/A,"
+            Drive
+          ",6,N/A,"71,000"
+Used Ford Explorer  3.5L V6 XLT (AWD) Mid Option 2009,2009,"231,000KM",Automatic,Petrol,Burgundy,4,3500,"
+            All Wheel Drive
+          ",6,Perfect inside out,"22,000"
+Used Ford Explorer  3.5L V6 XLT (AWD) 2009,2009,"231,000KM",Automatic,Petrol,Burgundy,4,3500,"
+            All Wheel Drive
+          ",6,Perfect inside out,"22,000"
+Used Hyundai Tucson  2.0L FWD 2016,2016,"200,000KM",Automatic,Petrol,White,4,2000,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"52,000"
+Used Hyundai Elantra 2014,2014,"216,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,000"
+Used Hyundai Tucson 2016,2016,"99,497KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"59,000"
+Used Hyundai Sonata 2005,2005,"193,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"14,000"
+Used Hyundai Tucson 2017,2017,"178,978KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"58,000"
+Used Hyundai Tucson 2018,2018,"161,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"60,000"
+Used Hyundai Elantra 2019,2019,"790,000KM",N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+New Hyundai Accent 2010,2010,0KM,N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"13,000"
+Used Kia Rio 2016,2016,"120,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,500"
+Used Toyota Corolla  1.6 S 2014,2014,"215,000KM",Automatic,Petrol,Blue,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"35,000"
+Used Genesis G70 2019,2019,"28,800KM",Automatic,Petrol,Blue,4,N/A,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"131,000"
+Used Toyota Cressida 1996,1996,"302,024KM",Manual,Petrol,White,4,2,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"12,000"
+Used Toyota Corolla  1.6 S 2017,2017,"137,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"25,000"
+New Suzuki Dzire 1.2L GLX 2020,2020,"68,000KM",Automatic,Petrol,Blue,4,1200,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"30,000"
+Used Toyota Camry  2.5L GLE Hybrid (212 HP) 2019,2019,"88,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"55,000"
+Used Toyota Camry  3.5L Grande (298 HP) 2019,2019,"65,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"55,000"
+Used Dodge Durango 2015,2015,"205,000KM",Automatic,Petrol,White,5,3,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"50,000"
+Used Chevrolet Trailblazer 2013,2013,"101,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"48,000"
+Used Lexus ES 350 2015,2015,"128,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"76,000"
+Used Lexus LX 570 2012,2012,"220,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"125,000"
+Used Hyundai Santa Fe 2017,2017,"47,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"78,000"
+Used Jeep Wrangler 2014,2014,"300,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"81,000"
+Used Nissan Altima 2017,2017,"150,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"59,000"
+Used Hyundai Azera 2016,2016,"197,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"53,000"
+Used Chevrolet Suburban 2018,2018,"111,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"169,000"
+Used Toyota Yaris 2022,2022,200KM,Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"67,000"
+Used Mercedes-Benz S-Class 2010,2010,"159,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"75,000"
+Used Ford Edge 2012,2012,"323,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"28,000"
+Used Changan CS95 2021,2021,"75,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"90,000"
+Used Toyota Land Cruiser 2014,2014,"351,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"115,000"
+Used Kia Optima 2015,2015,"120,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"50,000"
+Used Volkswagen Golf 2015,2015,"198,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"46,000"
+Used Land Rover Range Rover 2017,2017,"102,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"300,000"
+Used Kia Optima 2016,2016,"268,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"44,500"
+Used Lexus ES 350 2016,2016,"239,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"120,000"
+Used Toyota Corolla 2020,2020,"154,000KM",Automatic,N/A,Green,N/A,N/A,"
+            Drive
+          ",4,N/A,"61,000"
+Used Hyundai Sonata 2018,2018,"130,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"58,000"
+Used McLaren 570S 2017,2017,"23,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"520,000"
+Used Toyota Land Cruiser Prado 2009,2009,"290,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Toyota Hilux 2006,2006,"419,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Hyundai Elantra 2016,2016,"325,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Kia Sportage 2014,2014,"380,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"34,000"
+Used Hyundai Sonata 2014,2014,"220,000KM",N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Toyota Rav4 2010,2010,"350,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+Used Toyota Fortuner 2013,2013,"350,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Kia Soul 2014,2014,"97,000KM",N/A,N/A,Beige,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"26,000"
+Used Lexus GX 460  4.6 2013,2013,"54,000KM",Automatic,Petrol,White,5,4600,"
+            All Wheel Drive
+          ",8,Perfect inside out,"130,000"
+Used Hyundai Accent 2018,2018,"180,000KM",N/A,N/A,Other,N/A,N/A,"
+            Drive
+          ",Not Sure,Perfect inside out,"33,500"
+Used Mercedes-Benz C-Class C 200 2022,2022,"9,000KM",Automatic,Petrol,Silver,4,1991,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"239,000"
+Used Renault Fluence  1.6L PE 2014,2014,"187,000KM",CVT,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"19,000"
+Used Hyundai Tucson  2.0L Full Option (AWD) 2013,2013,"190,000KM",Automatic,Petrol,Gray,5,1999,"
+            All Wheel Drive
+          ",4,Perfect inside out,"38,000"
+Used Mazda 6  2.5L S 2019,2019,"122,000KM",Automatic,Petrol,Blue,4,2500,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"77,000"
+Used Toyota Hilux 2021,2021,"46,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"95,000"
+Used Mercedes-Benz CLA-Class 2018,2018,"134,000KM",Automatic,Petrol,Black,4,N/A,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"147,000"
+Used Mercedes-Benz C-Class  C 200 2022,2022,"9,200KM",Automatic,Petrol,Black,4,1991,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"298,000"
+Used Hyundai Elantra  1.6L 2016,2016,"233,000KM",Automatic,Petrol,White,4,1600,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"26,000"
+Used Ford Expedition  5.4L XL  2014,2014,"188,000KM",Automatic,Petrol,Black,4,5400,"
+            Rear Wheel Drive
+          ",8,Minor wear and tear,"30,000"
+Used GMC Acadia 3.6L All Wheel Drive 2007,2007,229KM,Automatic,Petrol,Silver,5,3600,"
+            All Wheel Drive
+          ",6,Perfect inside out,"20,000"
+Used Ford Expedition 2014,2014,"170,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"58,000"
+Used Mercedes-Benz E-Class Saloon 2014,2014,"83,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"122,000"
+Used Hyundai Azera 2015,2015,"422,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"55,000"
+Used Chevrolet Tahoe 2012,2012,"337,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",8,N/A,"40,800"
+Used BMW X6 2014,2014,"267,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"75,000"
+Used Ford Bronco 2021,2021,"2,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"300,000"
+Used Infiniti Q50 2016,2016,"157,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"90,000"
+Used Mazda CX 3 2017,2017,"133,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"55,800"
+Used Kia Sportage 2018,2018,"102,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"65,000"
+Used Mazda CX-9 2015,2015,"253,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"36,000"
+Used Nissan Pathfinder 2016,2016,"295,980KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"40,000"
+Used Hyundai Santa Fe 2018,2018,"87,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"71,000"
+Used Mercedes-Benz S-Class 2010,2010,"211,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"45,000"
+Used Ford Taurus  3.5L V6 SE 2010,2010,"218,830KM",Automatic,Petrol,Black,4,3500,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"26,000"
+Used Porsche Panamera  3.0L 4 2012,2012,"190,000KM",Automatic,Petrol,Brown,4,2995,"
+            All Wheel Drive
+          ",6,Minor wear and tear,"85,000"
+Used Ford Explorer 2006,2006,"230,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"13,000"
+Used Hyundai Elantra 2015,2015,"184,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"150,000"
+Used Honda Civic 2014,2014,"116,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"45,000"
+Used Hyundai Sonata 2015,2015,"339,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Chevrolet Cruze 2012,2012,"228,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"18,000"
+Used Nissan Armada 2006,2006,"381,545KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"10,000"
+Used Toyota Land Cruiser Prado  5 Door 2.7L (Automatic) 2008,2008,"296,000KM",Automatic,Petrol,White,5,2700,"
+            All Wheel Drive
+          ",4,Perfect inside out,"44,000"
+Used Kia Carnival 2013,2013,"252,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"21,000"
+Used Volkswagen Passat 2011,2011,"208,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,000"
+Used Suzuki Alto 2007,2007,"200,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"5,000"
+New Hyundai Santa Fe 2022,2022,0KM,N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"124,000"
+Used MG 360  1.5VCT STD 4AT 2019,2019,"74,000KM",Automatic,Petrol,Gold,4,1498,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"25,000"
+Used Hyundai Elantra 2016,2016,"325,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Toyota Yaris 2012,2012,"300,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"19,000"
+Used Toyota Yaris 2012,2012,"34,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"34,000"
+Used Kia Sportage 2014,2014,"38,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"34,000"
+Used Hyundai Sonata 2014,2014,"220,000KM",N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Toyota Corolla 2013,2013,"187,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,000"
+Used Toyota Rav4 2010,2010,"350,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+Used Toyota Corolla 2012,2012,"220,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Toyota Corolla 2016,2016,"42,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"280,000"
+Used Toyota Fortuner 2008,2008,"500,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Kia Cerato 2014,2014,"340,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Suzuki Vitara 2009,2009,"390,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"17,500"
+Used Toyota Hilux 2006,2006,"419,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Mitsubishi ASX  2.0L GLS (4WD) 2004,2004,"250,000KM",CVT,Petrol,White,5,1998,"
+            All Wheel Drive
+          ",4,Minor wear and tear,"15,000"
+Used Toyota Land Cruiser Pick Up 2016,2016,"200,000KM",N/A,N/A,Beige,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"65,000"
+Used Nissan Sunny  1.5 SL 2015,2015,"160,000KM",Automatic,Petrol,Silver,4,1498,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"26,000"
+Used Kia Optima  2.4L Base 2016,2016,"200,000KM",Automatic,Petrol,White,4,2400,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"35,000"
+Used BMW X5 2009,2009,"265,000KM",N/A,Petrol,Black,4,N/A,"
+            Drive
+          ",6,Minor wear and tear,"25,000"
+Used Bentley Flying Spur 2011,2011,"161,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",12,N/A,"120,000"
+Used Mazda CX-5 2020,2020,"70,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"105,000"
+Used Ford Expedition 2012,2012,"427,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"27,000"
+Used Kia Rio 2015,2015,"331,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"25,000"
+Used Mitsubishi Pajero 2016,2016,"234,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"40,500"
+Used BMW X5 2015,2015,"45,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"170,000"
+Used Ford F-150 2015,2015,"186,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"70,000"
+Used Ford Explorer 2015,2015,"250,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"43,000"
+Used BMW 7 Series 2021,2021,"4,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"374,000"
+Used Mercedes-Benz C-Class 2018,2018,"75,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"145,000"
+Used Audi A8 2016,2016,"56,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"180,000"
+Used Kia Pegas 2021,2021,"38,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"42,000"
+Used Mitsubishi ASX  2.0L GLX (2WD) 2019,2019,"13,800KM",Automatic,Petrol,Black,5,1998,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"48,000"
+Used Hyundai Santa Fe 3.3L AWD 2013,2013,"153,000KM",Automatic,Petrol,Blue,5,3300,"
+            All Wheel Drive
+          ",6,Perfect inside out,"47,000"
+Used Dodge Charger 5.7L R/T 2013,2013,"248,000KM",Automatic,Petrol,White,4,5700,"
+            Rear Wheel Drive
+          ",8,Perfect inside out,"26,500"
+Used GAC GA4  1.3T 2021,2021,"9,800KM",Automatic,Petrol,White,4,1300,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"50,000"
+Used Hyundai Elantra  2.0L GL 2019,2019,"37,000KM",Automatic,Petrol,White,4,1999,"
+            Front Wheel Drive
+          ",Not Sure,Perfect inside out,"63,000"
+Used Hyundai Sonata 2.4L 2013,2013,"306,000KM",Automatic,Petrol,Gray,4,2400,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"32,000"
+Used Nissan Patrol 2015,2015,"357,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"73,000"
+Used Toyota Aurion 2010,2010,"397,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"28,800"
+Used Nissan Maxima 2016,2016,"125,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",6,N/A,"60,000"
+Used Toyota Land Cruiser 2014,2014,"318,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"130,000"
+Used Ford Taurus 2015,2015,"260,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"50,000"
+Used Chevrolet Impala 2015,2015,"274,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"45,000"
+Used Toyota Land Cruiser 2014,2014,"127,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"163,000"
+Used Ford F-150 2012,2012,"214,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"90,000"
+Used Chevrolet Tahoe 2014,2014,"230,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"55,000"
+Used Mitsubishi Pajero 2017,2017,"183,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"69,000"
+Used Chevrolet Impala 2015,2015,"199,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"42,000"
+Used Mazda CX-9 2019,2019,"126,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",4,N/A,"124,000"
+Used Hyundai Grand Santa Fe 2016,2016,"361,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"40,000"
+Used Lexus LS 460 2013,2013,"252,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"120,000"
+Used Dodge Nitro 2011,2011,"113,000KM",Automatic,N/A,Purple,N/A,N/A,"
+            Drive
+          ",6,N/A,"26,000"
+Used Hyundai Tucson 2019,2019,"92,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"85,000"
+Used Jeep Wrangler 2017,2017,"52,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"116,000"
+Used Lexus LX 570 2020,2020,"120,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"380,000"
+Used Hyundai Tucson 2017,2017,"242,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"58,000"
+Used Mazda 6 2020,2020,"65,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"76,000"
+Used Jetour X70 2020,2020,"48,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",4,N/A,"50,000"
+Used Infiniti FX 35 2010,2010,"213,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"40,000"
+Used Toyota Hilux 2016,2016,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"65,000"
+Used Chevrolet Captiva 2008,2008,"350,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"26,000"
+Used Toyota Camry 2.5L Limited 2017,2017,"44,000KM",Automatic,Petrol,White,4,2500,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"65,000"
+Used Hyundai Elantra  1.6L GL 2020,2020,"70,000KM",Automatic,Petrol,Green,4,1591,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"52,000"
+Used Toyota Camry 2013,2013,"400,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Hyundai Sonata 2015,2015,"190,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Hyundai Tucson 2013,2013,"159,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"36,000"
+Used Hyundai Santa Fe 2014,2014,"3,000,000KM",N/A,N/A,Burgundy,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"38,000"
+Used Toyota Land Cruiser Prado 2016,2016,"390,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"98,000"
+Used Nissan Sunny 2019,2019,"90,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"26,000"
+Used Toyota Rav4 2010,2010,"350,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,000"
+Used Hyundai Sonata 2015,2015,"200,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"31,000"
+Used Toyota Rav4 2012,2012,"24,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"400,000"
+Used Hyundai Santa Fe 2013,2013,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,000"
+Used Toyota Hiace 2018,2018,"190,000KM",N/A,N/A,Orange,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"73,000"
+Used Chevrolet Lumina  SS 2008,2008,"319,000KM",Automatic,Petrol,White,4,1900,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"14,000"
+Used Toyota Land Cruiser 2015,2015,"188,000KM",Manual,Petrol,Beige,4,N/A,"
+            Drive
+          ",6,Perfect inside out,"106,000"
+Used Kia Sportage  2.0L Base 2016,2016,"127,500KM",Automatic,Petrol,Gray,5,2400,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"37,500"
+Used Hyundai Sonata 2018,2018,"152,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",4,N/A,"65,000"
+Used Toyota Innova 2015,2015,"95,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",5,N/A,"40,500"
+Used Dodge Charger 2018,2018,"158,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"71,000"
+Used Toyota Camry 2021,2021,"54,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"105,000"
+Used Dodge Durango 2016,2016,"254,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"81,000"
+Used Ford Expedition 2015,2015,"217,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"70,000"
+Used Chevrolet Tahoe 2011,2011,"143,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"45,000"
+Used Toyota Hiace 2010,2010,"226,000KM",Manual,N/A,White,N/A,N/A,"
+            Drive
+          ",5,N/A,"32,500"
+Used BMW 7 Series 2012,2012,"123,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"80,000"
+Used Mercedes-Benz GLE-Class 2016,2016,"192,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"140,000"
+Used Honda Accord 2015,2015,"341,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"48,000"
+Used Toyota FJ Cruiser 2016,2016,"229,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"87,000"
+Used Mercedes-Benz E-Class Saloon 2018,2018,"267,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"73,000"
+Used Changan CS95 2020,2020,"56,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"70,000"
+Used Mercedes-Benz CLS-Class 2015,2015,"130,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"139,000"
+Used Ford Taurus 2014,2014,"134,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",6,N/A,"50,000"
+Used Honda Accord 2018,2018,"120,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"95,000"
+Used BMW 7 Series 2020,2020,"35,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",4,N/A,"290,000"
+Used Chevrolet Silverado 2016,2016,"181,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"67,000"
+Used Lexus ES 350 2012,2012,"228,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",6,N/A,"55,000"
+Used Chevrolet Silverado 2011,2011,"250,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",8,N/A,"35,500"
+Used Cadillac SRX 2014,2014,"172,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"55,000"
+Used Toyota Land Cruiser 2016,2016,"110,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"197,000"
+Used Toyota Hilux 2018,2018,"132,000KM",Manual,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"75,000"
+Used Toyota Fortuner 2012,2012,"25,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"170,000"
+Used Hyundai Santa Fe 2016,2016,"147,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Honda Civic 2009,2009,"265,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Ford Explorer 2006,2006,"230,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"13,000"
+Used Volkswagen Golf 2012,2012,"132,602KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"19,000"
+Used Honda Accord 2009,2009,"338,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"10,000"
+Used Toyota Yaris 2013,2013,"330,000KM",Automatic,Petrol,White,4,N/A,"
+            All Wheel Drive
+          ",Not Sure,Perfect inside out,"17,000"
+Used Hyundai Tucson 2017,2017,"68,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"64,000"
+Used Chevrolet Malibu 2012,2012,"189,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,500"
+Used Mercedes-Benz E-Class 2012,2012,"184,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"45,000"
+Used Hyundai Sonata 2018,2018,"153,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Mazda 5 MPV 2019,2019,"40,000KM",N/A,N/A,Red,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"79,000"
+Used Chevrolet Trailblazer 2009,2009,"298,000KM",Automatic,Petrol,White,5,N/A,"
+            Rear Wheel Drive
+          ",Not Sure,Minor wear and tear,"15,000"
+Used Toyota Camry  2.5L LE Hybrid (212 HP) 2019,2019,"18,985KM",Automatic,Petrol,Gray,4,2487,"
+            All Wheel Drive
+          ",4,Perfect inside out,"337,860"
+Used Ford Edge  3.5L SE 2014,2014,"61,500KM",Automatic,Petrol,Black,4,3500,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"99,999"
+Used Hyundai Elantra 2017,2017,"76,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Toyota Camry 2013,2013,"400,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Kia Pegas 2021,2021,"17,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",Not Sure,Perfect inside out,"38,500"
+Used Hyundai Tucson 2017,2017,"198,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"36,000"
+Used Toyota Yaris 2008,2008,"270,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"15,500"
+Used Hyundai Elantra 2012,2012,"220,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"12,500"
+Used Toyota Yaris 2012,2012,"220,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"125,000"
+Used Hyundai Sonata 2012,2012,"270,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Hyundai Sonata 2012,2012,"270,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Toyota Sequoia 2014,2014,"320,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"40,000"
+Used Hyundai Sonata 2014,2014,"180,000KM",N/A,N/A,Gray,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"27,500"
+Used Toyota Land Cruiser Prado 2013,2013,"340,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"73,000"
+Used Toyota Yaris 2012,2012,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"15,000"
+Used Hyundai Sonata 2012,2012,"270,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"22,000"
+Used Toyota Yaris 2008,2008,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"15,000"
+Used Toyota Camry 2011,2011,"290,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Toyota Land Cruiser 2005,2005,"360,000KM",N/A,N/A,Beige,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"34,000"
+Used Toyota Yaris 1.5L SE 2013,2013,"300,000KM",Automatic,Petrol,Silver,5,1497,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"18,500"
+Used Mercedes-Benz GL-Class 2013,2013,"197,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"70,000"
+Used Toyota Fortuner 2014,2014,"291,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"58,000"
+Used Cadillac ATS 2015,2015,"201,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",4,N/A,"50,000"
+Used Ford Taurus 2018,2018,"93,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"70,000"
+Used Nissan Patrol 2015,2015,"354,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"110,000"
+Used Ford Explorer 2014,2014,"236,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"42,000"
+Used Chevrolet Caprice 2011,2011,"236,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"36,000"
+Used Toyota Land Cruiser 2015,2015,"99,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"180,000"
+Used Toyota Innova 2018,2018,"143,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"67,000"
+Used Chevrolet Impala 2015,2015,"118,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"38,000"
+Used GMC Acadia 2015,2015,"254,000KM",Automatic,N/A,Purple,N/A,N/A,"
+            Drive
+          ",6,N/A,"40,500"
+Used Mercedes-Benz S-Class 2013,2013,"99,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"115,000"
+Used Chevrolet Tahoe 2015,2015,"129,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"100,000"
+Used Toyota Hilux 2018,2018,"58,000KM",Manual,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"86,000"
+Used BMW 7 Series 2015,2015,"91,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"100,000"
+Used Lexus RX 350 2020,2020,"21,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"210,000"
+Used Volkswagen Jetta 2015,2015,"190,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"27,000"
+Used Ford Explorer 2010,2010,"222,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"21,000"
+Used Mercedes-Benz SLK-Class   SLK 250   2014,2014,"130,000KM",Automatic,Petrol,Silver,2,1800,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"140,000"
+Used Toyota Camry 2014,2014,"140,000KM",Automatic,Petrol,White,4,3500,"
+            Drive
+          ",6,Perfect inside out,"40,000"
+Used Lexus LX 570 2016,2016,"58,000KM",Automatic,N/A,White,N/A,5,"
+            All Wheel Drive
+          ",6,Perfect inside out,"145,000"
+Used Hyundai Elantra 2014,2014,"350,000KM",Automatic,Petrol,White,4,N/A,"
+            All Wheel Drive
+          ","N/A, Electric",Perfect inside out,"19,000"
+Used Hyundai Accent  1.4L 2011,2011,"220,000KM",Automatic,Petrol,Silver,4,1400,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"16,500"
+Used Ford Explorer  3.5L V6 XLT 2016,2016,"151,000KM",Automatic,Petrol,Gray,5,3500,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"70,000"
+Used Toyota Corolla  1.6 S 2016,2016,"230,000KM",Automatic,Petrol,Gray,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"40,000"
+Used Ford Expedition  5.4L XLT 2006,2006,330KM,Automatic,Petrol,Gray,4,5400,"
+            All Wheel Drive
+          ",8,Perfect inside out,"12,000"
+Used Ford Expedition  5.4L XLT 2006,2006,330KM,Automatic,Petrol,Gray,4,5400,"
+            All Wheel Drive
+          ",8,Perfect inside out,"12,000"
+Used Hyundai H1 2015,2015,"193,000KM",Automatic,Petrol,Other,4,N/A,"
+            Front Wheel Drive
+          ",Not Sure,Perfect inside out,"57,000"
+Used Audi A8 L 2013,2013,"136,000KM",Automatic,Petrol,Brown,4,N/A,"
+            All Wheel Drive
+          ",12,Perfect inside out,"120,000"
+Used Chevrolet Traverse  3.6L LS (FWD) 2012,2012,"182,000KM",Automatic,Petrol,Silver,5,3564,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"30,000"
+Used Mercedes-Benz E-Class 2021,2021,"7,000KM",Automatic,Petrol,Gray,4,N/A,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"248,000"
+Used GMC Yukon  SLE 2015,2015,"182,000KM",Automatic,Petrol,Black,4,5300,"
+            Rear Wheel Drive
+          ",8,Perfect inside out,"110,000"
+Used Mercedes-Benz C-Class  C 180 2019,2019,"103,000KM",Automatic,Petrol,White,4,N/A,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"145,000"
+Used Mitsubishi ASX 2.0L GLX 4WD mid option  2021,2021,"9,500KM",Automatic,Petrol,Blue,5,1998,"
+            All Wheel Drive
+          ",4,Perfect inside out,"73,000"
+Used Toyota Rav4 2012,2012,"260,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"30,000"
+Used Audi A5 Coupe 2016,2016,"182,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"63,000"
+Used Haval H6 2021,2021,"61,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"60,000"
+Used Toyota Land Cruiser 2013,2013,"460,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"95,000"
+Used Lexus ES 350 2013,2013,"338,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"75,000"
+Used Hyundai Azera 2016,2016,"290,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"37,000"
+Used Jeep Grand Cherokee 2013,2013,"237,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"58,000"
+Used BMW 7 Series 2012,2012,"208,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",6,N/A,"60,000"
+Used Kia Pegas 2021,2021,"28,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"46,000"
+Used Ford Taurus 2013,2013,"235,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"40,600"
+Used Mercedes-Benz E-Class Saloon 2016,2016,"198,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"94,000"
+Used Toyota Land Cruiser 2016,2016,"168,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"165,000"
+Used Toyota Camry 2018,2018,"162,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",4,N/A,"65,000"
+Used Mercedes-Benz S-Class 2015,2015,"66,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",12,N/A,"200,000"
+Used Toyota Camry 2017,2017,"82,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"75,000"
+Used Hyundai Accent 2021,2021,"28,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"44,000"
+Used Dodge Charger 2014,2014,"264,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"72,000"
+Used Mercedes-Benz S-Class 2012,2012,"99,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"106,000"
+Used Lexus ES 350 2015,2015,"226,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"90,000"
+Used Chevrolet Traverse 2018,2018,"170,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",6,N/A,"80,000"
+Used Kia Sorento 2016,2016,"93,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"45,000"
+Used Nissan Patrol 2016,2016,"357,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"83,000"
+Used Land Rover Range Rover 2016,2016,"70,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"235,000"
+Used Toyota Hilux 2016,2016,"241,000KM",Manual,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"61,000"
+Used Toyota Hilux 2016,2016,"231,000KM",Manual,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"58,000"
+Used Toyota Corolla  1.6L GLI Moonroof 2021,2021,"16,900KM",CVT,Petrol,Blue,4,1600,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"88,000"
+Used Kia Cerato Koup  2.0L Top 2013,2013,"177,000KM",Automatic,Petrol,Red,2,2000,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"26,500"
+Used Toyota Land Cruiser 2016,2016,"368,000KM",Manual,Petrol,Beige,2,N/A,"
+            All Wheel Drive
+          ",6,Perfect inside out,"56,000"
+Used Hyundai Sonata  2.4L Top 2017,2017,1KM,Automatic,Petrol,Silver,4,2359,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"42,000"
+Used Hyundai Santa Fe 2014,2014,"22,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"34,000"
+Used Kia Sportage 2016,2016,"200,000KM",N/A,N/A,Gold,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"36,000"
+Used Toyota Corolla 2011,2011,"360,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"20,000"
+Used Toyota Yaris 2016,2016,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Suzuki Jimny 2008,2008,"100,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,000"
+Used Hyundai Santa Fe 2014,2014,"300,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,000"
+Used Hyundai Santa Fe 2013,2013,"300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,000"
+Used Kia K2700 2014,2014,"200,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"29,000"
+Used Toyota Land Cruiser Prado 2011,2011,"200,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Kia Sportage 2016,2016,"200,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"36,000"
+Used Hyundai Sonata  2.4L  Ace of Base 2019,2019,66KM,Automatic,Hybrid,Beige,4,2359,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"47,500"
+Used Renault Duster 2015,2015,"84,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"23,100"
+Used GMC Yukon 2011,2011,"369,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"40,000"
+Used Toyota Camry 2016,2016,"254,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"58,000"
+Used Toyota Sequoia 2013,2013,"331,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"50,000"
+Used Toyota Sequoia 2016,2016,"167,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"130,000"
+Used Chrysler 300C 2014,2014,"117,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"52,000"
+Used Toyota Sequoia 2015,2015,"383,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"79,000"
+Used Chevrolet Traverse 2013,2013,"250,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"26,000"
+Used Audi S5 Coupe 2012,2012,"110,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",8,N/A,"71,000"
+Used Cadillac ATS 2016,2016,"120,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"65,000"
+Used Genesis G70 2014,2014,"269,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"24,000"
+Used Porsche Panamera 2012,2012,"133,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"90,000"
+Used Dodge Durango 2013,2013,"224,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"28,000"
+Used Toyota Land Cruiser 2013,2013,"534,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"99,000"
+Used Toyota Corolla 2020,2020,"154,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"61,000"
+Used Toyota Highlander 2020,2020,"62,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"141,500"
+Used Chevrolet Tahoe 2011,2011,"385,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"38,000"
+Used Mercedes-Benz E-Class Saloon 2018,2018,"74,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"177,000"
+Used Hyundai Centennial 2015,2015,"68,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"87,000"
+Used Cadillac XT5 Crossover 2017,2017,"88,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"100,000"
+Used Toyota Fortuner 2016,2016,"283,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"60,000"
+Used Ford Expedition 2010,2010,"342,400KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"34,000"
+Used Toyota Highlander 2020,2020,"32,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"160,000"
+Used Toyota Corolla 2015,2015,"247,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"40,000"
+Used Mercury Grand Marquis 2010,2010,"121,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"20,000"
+Used Toyota Land Cruiser 2016,2016,"151,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"173,000"
+Used Jeep Gladiator 2021,2021,600KM,Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"209,000"
+New Toyota Camry  2.5L GLE (204 HP) 2021,2021,0KM,Automatic,Petrol,Black,4,2487,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"70,000"
+Used Ford Expedition  5.4L 2013,2013,"249,000KM",Automatic,Petrol,Black,5,5400,"
+            Rear Wheel Drive
+          ",8,Perfect inside out,"37,000"
+Used Isuzu D-MAX 2008,2008,"627,076KM",Manual,Diesel,White,4,2500,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"35,000"
+Used Kia Sportage 2.0L Top 2014,2014,"84,533KM",Automatic,Petrol,White,4,2000,"
+            All Wheel Drive
+          ",4,Perfect inside out,"45,000"
+Used Mazda 6 2018,2018,"151,000KM",Automatic,Petrol,Blue,N/A,N/A,"
+            Drive
+          ",4,Minor wear and tear,"55,000"
+New Hyundai Santa Fe  2.4L GL Panorama (FWD) 2019,2019,"39,500KM",Automatic,Petrol,Red,5,2359,"
+            All Wheel Drive
+          ",4,Minor wear and tear,"85,000"
+Used Mercedes-Benz S-Class S 400 L 2015,2015,"52,000KM",Automatic,Petrol,White,4,3498,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"235,000"
+Used Toyota Land Cruiser Prado 2011,2011,"200,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"55,000"
+Used Hyundai Sonata 2006,2006,"198,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"15,500"
+Used Toyota Corolla 2015,2015,"148,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,000"
+Used Toyota Land Cruiser Prado 2011,2011,"200,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",4,Perfect inside out,"55,000"
+Used Toyota Hiace 2015,2015,"150,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"43,000"
+Used Toyota Camry 2014,2014,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Toyota Corolla 2005,2005,"400,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"125,000"
+Used Hyundai Elantra 2012,2012,"360,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"25,000"
+Used Isuzu Trooper 2020,2020,"60,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"106,000"
+Used Toyota Corolla 2010,2010,"280,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"21,000"
+Used Toyota Yaris 2013,2013,"260,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"14,000"
+Used Toyota Corolla 2013,2013,"470,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Hyundai Tucson 2013,2013,"158,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"35,000"
+Used Toyota Fortuner 2018,2018,"2,300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"83,000"
+Used Kia Grand Carnival 2016,2016,"93,000KM",Automatic,Petrol,Gray,5,3,"
+            Front Wheel Drive
+          ",Not Sure,Perfect inside out,"49,000"
+Used Toyota Hilux 2014,2014,"270,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"45,000"
+Used Honda Civic  1.8 LXi 2015,2015,"208,000KM",Automatic,Petrol,Silver,4,1800,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"29,000"
+Used Ford Mustang 2016,2016,"135,000KM",Automatic,N/A,Red,N/A,N/A,"
+            Drive
+          ",8,N/A,"115,000"
+Used Ford Crown Victoria 2010,2010,"334,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"28,000"
+Used Ford Expedition 2012,2012,"185,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"38,000"
+Used Audi Q5 2015,2015,"146,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"70,000"
+Used Mazda CX-9 2015,2015,"214,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"60,000"
+Used Hyundai Sonata 2013,2013,"238,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"25,000"
+Used Dodge Charger 2019,2019,"114,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"89,000"
+Used Mazda CX-9 2015,2015,"170,000KM",Automatic,N/A,Brown,N/A,N/A,"
+            Drive
+          ",6,N/A,"60,000"
+Used Maserati Quattroporte S 2010,2010,"99,800KM",Automatic,Petrol,White,4,4,"
+            Rear Wheel Drive
+          ",8,Perfect inside out,"65,000"
+Used Ford Taurus  3.5L V6 SEL 2015,2015,"164,000KM",Automatic,Petrol,Red,4,3500,"
+            Front Wheel Drive
+          ",6,Minor wear and tear,"58,000"
+Used Dodge Durango 2013,2013,"200,000KM",Automatic,Petrol,White,4,N/A,"
+            All Wheel Drive
+          ",Not Sure,Perfect inside out,"31,000"
+Used GMC Acadia  SLT1 2016,2016,"151,000KM",Automatic,Petrol,Black,5,3600,"
+            All Wheel Drive
+          ",6,Perfect inside out,"60,000"
+Used Mercedes-Benz 300 2014,2014,"93,000KM",Automatic,Petrol,Silver,4,N/A,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"100,000"
+Used Toyota Rush  1.5L GX 2022,2022,"4,500KM",Automatic,Petrol,White,5,1496,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"76,000"
+Used Nissan Altima 3.5 SV 2005,2005,"365,000KM",CVT,Petrol,Beige,4,3500,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"12,000"
+Used Ford Expedition EL  5.4L V8 XL 2008,2008,"389,000KM",Automatic,Petrol,Gray,5,5400,"
+            All Wheel Drive
+          ",8,Minor wear and tear,"21,000"
+Used Mazda CX-30  2.5L 2020,2020,"18,000KM",Automatic,Petrol,Brown,4,2,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"89,200"
+Used Ford Explorer 2013,2013,"118,394KM",Automatic,Petrol,Gray,4,N/A,"
+            Drive
+          ",Not Sure,Perfect inside out,"52,000"
+Used Ford Expedition EL  5.4L V8 XLT 2008,2008,"389,000KM",Automatic,Petrol,Gray,4,5400,"
+            All Wheel Drive
+          ",8,Minor wear and tear,"21,000"
+Used Chevrolet Tahoe 2019,2019,"190,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",8,N/A,"140,000"
+Used Hyundai Santa Fe 2021,2021,"32,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"123,000"
+Used Hyundai Elantra 2016,2016,"194,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",4,N/A,"40,600"
+Used BMW X5 2015,2015,"67,000KM",Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",6,N/A,"110,000"
+Used Lexus GX 460 2016,2016,"278,000KM",Automatic,Petrol,Black,5,4,"
+            All Wheel Drive
+          ",8,Perfect inside out,"170,000"
+Used Hyundai Elantra Coupe 2020,2020,"21,000KM",Automatic,Petrol,Black,4,2000,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"42,000"
+Used Toyota Land Cruiser Prado  5 Door 2.7L VXR 2014,2014,"86,000KM",Automatic,Petrol,Silver,5,2700,"
+            All Wheel Drive
+          ",4,Minor wear and tear,"75,000"
+Used Toyota Land Cruiser Prado  5 Door 4.0L EXR  2014,2014,"86,000KM",Automatic,Petrol,Silver,5,4000,"
+            All Wheel Drive
+          ",4,Minor wear and tear,"77,000"
+Used Toyota Corolla 2015,2015,"148,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,000"
+Used Toyota Fortuner 2007,2007,"430,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Toyota Hilux 2016,2016,"146,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"58,000"
+Used Honda Civic Type R 2012,2012,"213,000KM",Automatic,Petrol,Turqoise,N/A,N/A,"
+            Drive
+          ",Not Sure,Perfect inside out,"26,500"
+Used Toyota Land Cruiser Prado 2010,2010,"290,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"62,000"
+Used Mitsubishi Pajero 2006,2006,"360,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,000"
+Used Toyota Camry 2007,2007,"248,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,000"
+Used Toyota Camry 2010,2010,"255,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Kia Sportage 2016,2016,"165,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"59,000"
+Used Toyota Corolla 2010,2010,"200,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Hyundai Sonata 2017,2017,"300,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"34,000"
+Used Toyota Corolla 2005,2005,"200,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"135,000"
+Used Mercedes-Benz S 65 AMG Coupe 2016,2016,"104,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"300,000"
+Used Toyota Fortuner 2017,2017,"163,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"77,000"
+Used Hyundai Elantra 2010,2010,"213,000KM",N/A,N/A,Silver,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,500"
+Used Jeep Cherokee 2008,2008,"319,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"15,000"
+Used Hyundai Accent 2019,2019,"116,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"42,000"
+Used Toyota Fortuner 2007,2007,"430,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"30,000"
+Used Audi A7 2015,2015,"164,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",6,N/A,"116,000"
+Used BMW 7 Series 2016,2016,"125,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"175,000"
+Used Toyota Land Cruiser 2015,2015,"142,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"145,000"
+Used Chevrolet Impala 2016,2016,"296,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"61,000"
+Used Lincoln Aviator 2021,2021,800KM,Automatic,N/A,N/A,N/A,N/A,"
+            Drive
+          ",6,N/A,"225,000"
+Used Mercedes-Benz GLK-Class 2015,2015,"176,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"71,000"
+Used Toyota Fortuner 2015,2015,"360,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"60,000"
+Used MG 3 1.5L COM 2015,2015,"115,000KM",Automatic,Petrol,Brown,4,1500,"
+            Front Wheel Drive
+          ",Not Sure,Minor wear and tear,"32,000"
+Used Renault Duster  2.0L LE (4x4) 2013,2013,"126,000KM",Automatic,Petrol,White,5,2013,"
+            All Wheel Drive
+          ",4,Perfect inside out,"18,000"
+Used Mazda 6 Ultra 2022,2022,"2,500KM",Automatic,Petrol,White,4,2,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"108,500"
+Used Nissan Altima 2010,2010,"270,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"17,000"
+Used Toyota pickup 2007,2007,"400,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"58,000"
+Used Toyota Camry 2007,2007,"248,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"23,000"
+Used Chevrolet Cruze 2010,2010,"223,300KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"10,500"
+Used Mitsubishi Outlander 2004,2004,"260,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"17,000"
+Used Toyota Corolla 2019,2019,"27,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"47,000"
+Used Jaguar XF  2.0 i4Turbo Luxury 2013,2013,"82,000KM",Automatic,Petrol,Blue,4,1999,"
+            Drive
+          ",4,Perfect inside out,"45,000"
+Used Hyundai Sonata 2.5L GDI 8AT Full option   2009,2009,"300,000KM",Automatic,Petrol,Silver,4,2500,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"19,000"
+Used Kia Optima 2014,2014,"67,000KM",Automatic,Petrol,Red,N/A,2400,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"48,000"
+Used GMC Envoy 2006,2006,"280,000KM",Automatic,Petrol,Gold,4,N/A,"
+            Front Wheel Drive
+          ",6,Perfect inside out,"16,000"
+Used Hyundai Elantra HD  1.6 GL A/T SR 2013,2013,"225,000KM",Automatic,Petrol,Silver,4,1591,"
+            Front Wheel Drive
+          ",4,Perfect inside out,"26,000"
+Used Ford F-150  3.7L XLT 2012,2012,"260,000KM",Automatic,Petrol,White,4,3700,"
+            Rear Wheel Drive
+          ",6,Perfect inside out,"20,000"
+Used Toyota Yaris 2017,2017,"120,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Toyota Land Cruiser Prado 2010,2010,"357,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"65,000"
+Used Toyota Land Cruiser Prado 2006,2006,"40,000KM",N/A,N/A,Black,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"32,000"
+Used Toyota Land Cruiser Prado 2009,2009,"380,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"42,000"
+Used Hyundai Elantra 2010,2010,"270,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"16,000"
+Used Kia Rio 2018,2018,"218,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,500"
+Used Toyota Fortuner 2012,2012,"4,300,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"37,000"
+Used Toyota Land Cruiser Prado 2010,2010,"65,000KM",N/A,N/A,White,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"65,000"
+Used Toyota Camry 2011,2011,"158,000KM",N/A,N/A,Bronze,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"28,000"
+Used Toyota Corolla 2011,2011,"350,000KM",N/A,N/A,Blue,N/A,N/A,"
+            Drive
+          ",N/A,Perfect inside out,"24,000"
+Used Toyota Hiace  2.7L Commuter GL High Roof LWB 2013,2013,"342,443KM",Manual,Petrol,White,4,2694,"
+            Rear Wheel Drive
+          ",4,Perfect inside out,"54,000"
+Used Toyota Tundra 2019,2019,"65,789KM",Automatic,Petrol,White,5,N/A,"
+            All Wheel Drive
+          ",4,Perfect inside out,"90,000"
+Used Porsche Cayenne  S 2015,2015,"82,000KM",Automatic,Petrol,White,4,3600,"
+            All Wheel Drive
+          ",6,Minor wear and tear,"160,000"
+Used Hyundai Elantra 2015,2015,"340,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"24,000"
+Used Hyundai Sonata 2017,2017,"174,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"47,000"
+Used Volkswagen CC 2016,2016,"40,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"90,000"
+Used GMC Yukon 2021,2021,"28,000KM",Automatic,N/A,Gold,N/A,N/A,"
+            Drive
+          ",8,N/A,"202,100"
+Used Toyota Land Cruiser 2022,2022,"7,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",6,N/A,"348,000"
+Used Honda Civic 2017,2017,"23,500KM",Manual,N/A,Red,N/A,N/A,"
+            Drive
+          ",4,N/A,"135,000"
+Used Nissan Patrol 2015,2015,"304,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",8,N/A,"90,000"
+Used Audi Q7 2020,2020,"40,000KM",Automatic,N/A,Blue,N/A,N/A,"
+            Drive
+          ",6,N/A,"280,000"
+Used Chevrolet Malibu 2013,2013,"356,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",4,N/A,"27,000"
+Used Mazda 6 2015,2015,"317,000KM",Automatic,N/A,Grey,N/A,N/A,"
+            Drive
+          ",4,N/A,"33,000"
+Used Toyota Fortuner 2021,2021,"10,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"120,000"
+Used Land Rover Range Rover 2012,2012,"176,000KM",Automatic,N/A,Silver,N/A,N/A,"
+            Drive
+          ",8,N/A,"90,000"
+Used Volkswagen CC 2014,2014,"147,000KM",Automatic,N/A,Black,N/A,N/A,"
+            Drive
+          ",4,N/A,"40,000"
+Used Fiat 500 2012,2012,"128,000KM",Automatic,N/A,White,N/A,N/A,"
+            Drive
+          ",4,N/A,"28,500"
+Used Toyota Corolla  1.6L XLI Executive 2006,2006,"245,000KM",Manual,Petrol,Gray,4,1598,"
+            Front Wheel Drive
+          ",4,Minor wear and tear,"15,000"
