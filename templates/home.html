@@ -1,0 +1,291 @@
+<html>
+    <body bgcolor=#d4a3ae>
+     
+      <div class = links>
+      <a>
+        Saudi Used Cars Price Prediction
+        <p style="font-size:15px;">Developed by: Yousef Al Otaibi</p>
+        <p style="font-size:15px;">Misk-DSI-2022</p>
+        <a class = 'abtn' href="#">Report</a><br>
+        <a class = 'abtn' href="#">Source code</a>
+      </a>
+      </div>
+        <center>
+
+        <div class="login-box">
+            <h2>Enter Car Info</h2>
+            <form  method="POST", action="{{url_for('home')}}">
+
+              <div class="user-box">
+                <input type="text", name='make', required="">
+                <label>Car make</label>
+              </div>
+
+              <div class="user-box">
+                <input type="text", name='model', required="">
+                <label>model</label>
+              </div>
+
+              <div class="user-box">
+                <input type="text", name='year', required="">
+                <label>year</label>
+              </div>
+
+              <div class="user-box">
+                <input type="number", name='km', required="">
+                <label>Killometers</label>
+              </div>
+
+              <div class="user-box">
+                <input type="text", name='transmission', required="">
+                <label>transmission type (Automatic, Manual,.etc)</label>
+              </div>
+
+              <div class="user-box">
+                <input type="text", name='fuel', required="">
+                <label>fuel type (Pertol or Diesel)</label>
+              </div>
+
+              <div class="user-box">
+                <input type="text", name='color', required="">
+                <label>color</label>
+              </div>
+
+              <div class="user-box">
+                <input type="text", name='no_doors', required="">
+                <label>Number of doors</label>
+              </div>
+
+              <div class="user-box">
+                <input type="number", name='engine_capacity', required="">
+                <label>Engine capacity (in cc)</label>
+              </div>
+
+              <div class="user-box">
+                <input type="text", name='no_cylinders', required="">
+                <label>Number of cylinders</label>
+              </div>
+
+              <div class="user-box">
+                <input type="text", name='Accident_history', required="">
+                <label>Accident history</label>
+              </div>
+
+              <a>
+              <input type="submit" , value='predict!' class="btns">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </a>
+            </form>
+          </div>
+        
+        </center>
+      </body>
+      </html>
+    <style>
+      html {
+    height: 100%;
+  }
+  body {
+    margin:0;
+    padding:0;
+    font-family: 'Courier New', monospace;
+    background: linear-gradient(#141e30, #243b55);
+  }
+  .links{
+    position: absolute;
+    left:4%;
+    top:10%;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+  }
+  .login-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    height: 940;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+  }
+  
+  .login-box h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .login-box .user-box {
+    position: relative;
+  }
+  
+  .login-box .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+  }
+  .login-box .user-box label {
+    position: absolute;
+    padding: 10px 0;
+    pointer-events: none;
+    top: -20px;
+    left: 0;
+    color: #03e9f4;
+    font-size: 12px;
+  }
+  
+  
+  .login-box form a {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #03e9f4;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px
+  }
+  
+  .login-box a:hover {
+    background: #03e9f4;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03e9f4,
+                0 0 100px #03e9f4;
+  }
+  
+  .login-box a span {
+    position: absolute;
+    display: block;
+  }
+  
+  
+  .login-box a span:nth-child(1) {
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #03e9f4);
+    animation: btn-anim1 1s linear infinite;
+  }
+  
+  @keyframes btn-anim1 {
+    0% {
+      left: -100%;
+    }
+    50%,100% {
+      left: 100%;
+    }
+  }
+  
+  .login-box a span:nth-child(2) {
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, #03e9f4);
+    animation: btn-anim2 1s linear infinite;
+    animation-delay: .25s
+  }
+  
+  @keyframes btn-anim2 {
+    0% {
+      top: -100%;
+    }
+    50%,100% {
+      top: 100%;
+    }
+  }
+  
+  .login-box a span:nth-child(3) {
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg, transparent, #03e9f4);
+    animation: btn-anim3 1s linear infinite;
+    animation-delay: .5s
+  }
+  
+  @keyframes btn-anim3 {
+    0% {
+      right: -100%;
+    }
+    50%,100% {
+      right: 100%;
+    }
+  }
+  
+  .login-box a span:nth-child(4) {
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg, transparent, #03e9f4);
+    animation: btn-anim4 1s linear infinite;
+    animation-delay: .75s
+  }
+  
+  @keyframes btn-anim4 {
+    0% {
+      bottom: -100%;
+    }
+    50%,100% {
+      bottom: 100%;
+    }
+  }
+  .btns{
+    background: none;
+    color: #03e9f4;
+    border: none;
+    font-family: 'Courier New', monospace;
+  }
+  .btns:hover{
+    color: #fff;
+  }
+  .abtn{
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px;
+    border: .5px solid white;
+    border-radius: 10px;
+    background-color: linear-gradient(#141e30, #243b55);
+  }
+  .abtn:hover{
+    background: #03d0f4;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03e9f4,
+                0 0 100px #03e9f4;
+    border: .5px solid #03e9f4;
+  }
+    </style>
