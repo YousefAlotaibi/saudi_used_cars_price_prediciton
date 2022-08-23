@@ -1,18 +1,65 @@
 <html>
 
-<body bgcolor=#d4a3ae>
+<body bgcolor=#122740>
 
     <center>
-
+        <div class="login-box">
         <h1>  PREDICTION :  </h1>
-    
+  
     {%print(data)%}
 
         <br><br>
-    <a href='/'>go back to home page</a>
-
+    <a class = 'abtn' href='/'>go back to home page</a>
+</div>
     </center>
 
 </body>
 
 </html>
+
+<style>
+      .login-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    height: 260;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+    color: white;
+  }
+
+      h1{
+        color: white;
+      }
+      .abtn{
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px;
+    border: .5px solid #03e9f4;
+    border-radius: 10px;
+    background-color: linear-gradient(#141e30, #243b55);
+  }
+  .abtn:hover{
+    background: #03d0f4;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03e9f4,
+                0 0 100px #03e9f4;
+    border: .5px solid #03e9f4;
+  }
+</style>
