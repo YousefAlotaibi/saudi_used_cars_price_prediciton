@@ -50,6 +50,9 @@ def home():
     pred = model.predict(arr)
     return render_template('prediction.html', data=pred)
 
+@app.route('/report')
+def report():
+    return render_template('report.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
