@@ -21,6 +21,7 @@ individuals will be able to enter car features and in a click of a button the ca
 Data was scraped from [yallamotor.com](https://yallamotor.com) with a total of 4290 record and 13 features. 
 
 - Data Description:
+
 |       Name       |                            Description                            |
 |:----------------:|:-----------------------------------------------------------------:|
 |     car_make     |                      Manufacturer of the car                      |
